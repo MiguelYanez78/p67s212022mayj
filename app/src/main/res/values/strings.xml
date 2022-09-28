@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">p67s212022mayj</string>
+    <string name="calcu">Calculadora</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="menu">Menu de opciones</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multi">Multiplicación</string>
+    <string name="div">División</string>
+    <string name="calcula">Calcular</string>
+    <string name="regresa">Regresar</string>
+    <string name="n1">Colocar numero 1</string>
+    <string name="n2">Colocar numero 2</string>
+    <string name="h1">Numero 1</string>
+    <string name="h2">Numero 2</string>
+    <string name="result">Resultado</string>
+</resources>
